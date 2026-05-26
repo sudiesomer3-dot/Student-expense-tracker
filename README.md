@@ -15,6 +15,11 @@ The Budget Tracker is a planned student expense tracking application. The purpos
 
 At this stage, the project is in the initial setup and planning phase. Our team is using GitHub to organize the project repository, create documentation, plan branches, and prepare for future development.
 
+## Project Purpose
+
+The purpose of this project is to practice the full software development process, including planning, coding, testing, documentation, and collaboration.  
+Our team will use GitHub to manage the project repository, branches, commits, and pull requests.
+
 ## Planned Features
 
 - Add and manage expenses
